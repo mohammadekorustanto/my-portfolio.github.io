@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: lightskyblue;
+}
+.jumbotron img {
+  width: 195px;
+  height: 195px;
+}
+section {
+  padding-top: 6rem;
+}
+#pendidikan {
+  background-color: #a2d9ff;
+}
+footer {
+  background-color: #a2d9ff;
+}
